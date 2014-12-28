@@ -4,6 +4,8 @@ DIY ergonomic keyboard.
 
 Firmware and documentation based on [gh60](../gh60).
 
+![Ergomod layout](doc/ergomod_layout.png)
+
 ## ergomod resources
 - [ergodox](http://ergodox.org/)
 
